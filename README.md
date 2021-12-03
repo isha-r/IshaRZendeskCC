@@ -1,4 +1,4 @@
-# ISHA-R.-ZendeskCodingChallenge
+# IshaRZendeskCC
 Submission for Zendesk Summer 2022 Internship Coding Challenge
 
 
