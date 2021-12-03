@@ -15,3 +15,5 @@ into their account in order to present their tickets in lists of at most 25 tick
 
 The TicketTester class performs some basic tests on the APIConnect class to ensure that, at a level that I am familiar with on my own account, the retrieval 
 of tickets is functional.
+
+Thanks!
