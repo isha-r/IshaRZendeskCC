@@ -19,7 +19,7 @@ public class TicketDriver {
   
 
   /**
-   * Main method for the text-based Tile Matching Driver
+   * Main method for the Ticket Driver
    * 
    * @param args input arguments if any
    */
